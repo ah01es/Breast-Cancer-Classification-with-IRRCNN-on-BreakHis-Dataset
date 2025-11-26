@@ -9,7 +9,7 @@ The architecture and methodology are based on the paper:
 **Breast Cancer Classification from Histopathological Images with Inception Recurrent Residual Convolutional Neural Network**  
 Md Zahangir Alom et al.
 
-Unfortunately, the official code repository for this paper is not publicly available. Therefore, this project implements the entire model and training pipeline from scratch, following the details described in the publication.
+Unfortunately, the official code repository for this paper is not publicly available. Therefore, I have independently implemented the entire model and training pipeline from scratch. The model is trained and evaluated on the BreakHis dataset.
 
 ## Dataset
 
